@@ -1,0 +1,21 @@
+50
+rev
+[
+  [
+    1
+    3 dup sub
+    1 dup
+    0 dup 4 dup add
+    -1 dup exec
+    swap pop swap pop swap pop
+  ]
+  [
+    swap pop swap pop 
+  ]
+  4 dup
+  ifz exec
+]
+rev
+1
+0
+-1 dup exec

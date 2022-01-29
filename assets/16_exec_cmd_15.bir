@@ -1,0 +1,1 @@
+[ swap exec swap exec ] [ 1 swap sub ] swap [ 2 mul ] swap 3 swap exec

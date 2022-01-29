@@ -1,0 +1,34 @@
+[
+  [
+    pop
+    pop
+  ]
+  [
+    1 dup
+    1 dup
+    1 5 dup sub
+    -1 dup exec
+    1 dup
+    4 dup
+    1 5 dup sub
+    -1 dup exec
+    4 dup
+    4 dup
+    1 5 dup sub
+    -1 dup exec
+    -1 dup exec
+    swap pop
+    swap pop
+    swap pop
+  ]
+  2 dup
+  4 dup
+  lt
+  1 sub
+  ifz
+  exec
+]
+4
+8
+12
+-1 dup exec

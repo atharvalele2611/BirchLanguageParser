@@ -1,0 +1,1 @@
+2 [ [ 2 dup swap exec ] [ 2 mul swap exec ] swap ] [ 5 swap sub ] swap exec exec

@@ -1,0 +1,1 @@
+-7 0 dup 0 gt [ 0 sub ] swap [ ] swap ifz exec

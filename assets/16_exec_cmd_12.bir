@@ -1,0 +1,1 @@
+2 3 [ add ] [ mul ] 0 ifz exec

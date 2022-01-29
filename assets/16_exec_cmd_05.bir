@@ -1,0 +1,1 @@
+6 5 4 3 swap lt [ add ] swap [ mul ] swap ifz exec
